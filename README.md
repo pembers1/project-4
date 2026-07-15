@@ -24,19 +24,19 @@ To protect commercially sensitive information, all screenshots used anonymized o
 ### Screenshot 1: Raw Dataset
 Raw retail inventory dataset used for Power BI analysis and dashboard development.
 
-![Image Alt](https://github.com/pembers1/project-3/blob/main/Screenshot%202026-07-14%20144829.png?raw=true)
+![Image Alt](https://github.com/pembers1/project-4/blob/main/Screenshot%202026-07-14%20144829.png?raw=true)
 
 ### Screenshot 2: Power Query Transformation
 Data preparation and transformation in Power Query, including date conversion and creation of reporting fields.
-![Image Alt](https://github.com/pembers1/project-3/blob/main/Screenshot%202026-07-14%20145632.png?raw=true)
+![Image Alt](https://github.com/pembers1/project-4/blob/main/Screenshot%202026-07-14%20145632.png?raw=true)
 
 ### Screenshot 3: Power BI Workspace
 Power BI development environment used to build the inventory reporting solution.
-![Image Alt](https://github.com/pembers1/project-3/blob/main/Screenshot%202026-07-14%20150118.png?raw=true)
+![Image Alt](https://github.com/pembers1/project-4/blob/main/Screenshot%202026-07-14%20150118.png?raw=true)
 
 ### Screenshot 4: Finished Dashboard
 Completed Retail Inventory Health Dashboard with KPI reporting, filtering, inventory analysis, and stock-risk monitoring.
-![Image Alt](https://github.com/pembers1/project-3/blob/main/Screenshot%202026-07-14%20155103.png?raw=true)
+![Image Alt](https://github.com/pembers1/project-4/blob/main/Screenshot%202026-07-14%20155103.png?raw=true)
 
 ## Skills Demonstrated
 * Data Importation
