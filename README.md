@@ -1,5 +1,7 @@
 # Power BI Retail Inventory Health Dashboard
 
+[Home](https://github.com/pembers1/portfolio-homepage#data-analytics--business-intelligence-portfolio)
+
 ## Objective
 Developed an interactive inventory reporting dashboard using a synthetic retail dataset to demonstrate Power BI reporting, dashboard development, KPI monitoring, data visualisation, and inventory analytics capabilities.
 
